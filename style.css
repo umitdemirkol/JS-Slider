@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(192, 179, 179);
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-tittle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.card-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:red;
+    font-style:italic;
+    text-decoration: none;
+}
+.card-footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
